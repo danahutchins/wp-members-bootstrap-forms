@@ -4,7 +4,10 @@
 * in either your theme's functions.php file or the plugins wp-members-pluggable.php file.  There is
 * a chance that versions of the plugin later than 2.9.9.1 may not work with this method.
 */
-
+/**
+This is a comment to see if I can make a git hub branch
+@leonrainbow
+**/
 
 /**
  * Login Dialog
